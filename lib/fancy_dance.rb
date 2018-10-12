@@ -2,6 +2,9 @@
 
 class FancyDance
   
+  def initialize 
+  end 
+  
   def twirl
   end 
   
