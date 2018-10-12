@@ -20,4 +20,9 @@ module FancyDance
     end 
 
   end 
+  
+  def metadata
+    
+  end 
+  
 end 
