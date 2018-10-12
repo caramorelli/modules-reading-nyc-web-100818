@@ -3,11 +3,12 @@
 module FancyDance
   module InstanceMethods
   
-  def twirl
-  end 
+    def twirl
+      "I'm twirling!"
+    end 
   
-  def jump
-  end 
+    def jump
+    end 
   
   def pirouette
   end 
