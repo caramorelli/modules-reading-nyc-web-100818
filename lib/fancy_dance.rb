@@ -3,9 +3,6 @@
 module FancyDance
   module InstanceMethods
   
-  def initialize 
-  end 
-  
   def twirl
   end 
   
