@@ -5,7 +5,10 @@ class Kid
   include Dance
   extend MetaDancing
   
+  attr_accessor
+  
   def initialize(name)
+    @name = name
   end 
   
   
