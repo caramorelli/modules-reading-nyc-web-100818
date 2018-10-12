@@ -8,5 +8,6 @@ class FancyDance
   def jump
   end 
   
-  def 
+  def pirouette
+  end 
 end 
