@@ -11,5 +11,6 @@ class FancyDance
   def pirouette
   end 
   
-  def take_a_bow
+  def self.take_a_bow
+  end 
 end 
