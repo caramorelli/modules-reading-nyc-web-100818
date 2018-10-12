@@ -5,5 +5,8 @@ class Kid
   include Dance
   extend MetaDancing
   
+  def initialize(name)
+  end 
+  
   
 end 
