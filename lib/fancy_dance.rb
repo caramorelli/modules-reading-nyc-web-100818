@@ -1,6 +1,8 @@
 
 
-class FancyDance
+module FancyDance
+  module 
+    InstanceMethods
   
   def initialize 
   end 
